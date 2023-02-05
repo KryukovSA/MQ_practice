@@ -1,4 +1,4 @@
-# Лабораторная работа #2
+# Микросервисы и Kafka
 
 ![GitHub Classroom Workflow](../../workflows/GitHub%20Classroom%20Workflow/badge.svg?branch=master)
 
